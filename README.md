@@ -1,81 +1,75 @@
-<h1 align="center">Hi 👋, I'm Youssef Elhaouil</h1>
-<h3 align="center">🚀 Full Stack Developer | Morocco 🇲🇦</h3>
+<h1 align="center">
+  👋 Hello World, I'm <span style="color:#38BDF8;">Youssef Elhaouil</span>
+</h1>
+
+<h3 align="center">
+  💻 Full Stack Developer • 🚀 Web Enthusiast • 🌍 Morocco
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefelhaouil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:youssefelha1949@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=flat-square&logo=gmail"/>
+  </a>
+  <a href="https://github.com/youssefelhaouil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefelhaouil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+NestJS+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefelhaouil&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Full Stack Developer passionate about modern web technologies  
-- 🌱 Currently learning and improving **Backend & Frontend Development**  
-- 🚀 Interested in building **scalable web apps & REST APIs**  
-
+## 👨‍💻 About Me
+- 💡 Passionate **Full Stack Developer** from Morocco  
+- 🚀 Focused on building **scalable, secure, and performant web apps**  
+- 🌱 Constantly learning new technologies and best practices  
+- 📫 Email: **youssefelha1949@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
+## ⚙️ Tech Stack
 
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+### 🖥 Backend
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
-</a>
-
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssefelhaouil&show_icons=true&theme=tokyonight" />
 </p>
@@ -86,16 +80,25 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefelhaouil&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefelhaouil&theme=onedark&margin-w=15" />
 </p>
 
 ---
 
-### ✨ Quote
+## 🌐 Connect With Me
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <a href="https://www.linkedin.com/in/youssefelhaouil">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Elhaouil-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:youssefelha1949@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-youssefelha1949%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
+---
 
+<p align="center">
+  <i>“Code. Learn. Build. Repeat.”</i> 🚀
+</p>
