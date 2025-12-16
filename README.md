@@ -80,13 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefelhaouil&theme=onedark&margin-w=15" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefelhaouil">
