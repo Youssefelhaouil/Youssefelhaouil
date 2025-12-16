@@ -21,8 +21,6 @@
 - 🌱 Currently learning and improving **Backend & Frontend Development**  
 - 🚀 Interested in building **scalable web apps & REST APIs**  
 
----
-
 
 ---
 
