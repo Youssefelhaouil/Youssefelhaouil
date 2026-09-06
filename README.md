@@ -18,14 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+NestJS;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefelhaouil&color=blueviolet&style=flat-square"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
