@@ -21,8 +21,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💡 Passionate **Full Stack Developer** from Morocco  
-- 🚀 Focused on building **scalable, secure, and performant web apps**  
+- 💡 Passionate **Software engineer** from Morocco  
 - 🌱 Constantly learning new technologies and best practices  
 - 📫 Email: **youssefelha1949@gmail.com**
 
