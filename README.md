@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer • 🚀 Web Enthusiast • 🌍 Morocco
+  💻 Software engineer • 🌍 Morocco
 </h3>
 
 <p align="center">
